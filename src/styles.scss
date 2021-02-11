@@ -1,1 +1,41 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* System colors */
+    --color-gray-1: #333333;
+    --color-gray-2: #4F4F4F;
+    --color-gray-3: #828282;
+    --color-gray-4: #BDBDBD;
+    --color-gray-5: #E0E0E0;
+    --color-gray-6: #F2F2F2;
+    --color-red: #EB5757;
+    --color-orange: #F2994A;
+    --color-yellow: #F2C94C;
+    --color-blue-1: #2F80ED;
+    --color-blue-2: #2D9CDB;
+    --color-blue-3: #56CCF2;
+    --color-purple-1: #632DCB;
+    --color-purple-2: #BB6BD9;
+    
+    /* Custom colors */
+    --color-custom-purple-1: #721EFF;
+    --color-custom-purple-2: #5935FF;
+    --color-custom-blue-1: #3656FF;
+    --color-custom-blue-2: #206BFF;
+    --color-custom-blue-3: #01B1F2;
+    --color-custom-blue-4: #01D4E4;
+    --color-custom-blue-5: #01EADA;
+    --color-custom-gray-1: #101015;
+    --color-custom-gray-2: #48485E;
+    --color-custom-gray-3: #77778B;
+    --color-custom-black-1: #09090B;
+    // --color-custom-gray-1: #101015;
+    --color-custom-gradient-blue: linear-gradient(to right, #2F80ED, #56CCF2);
+
+    font-family: 'Circular Std', sans-serif;
+}

@@ -1,27 +1,18 @@
 # UiBoost
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+Este projeto consiste do desenvolvimento de uma interface desenhada no cursto uiboost por Taís Ertl.
 
-## Development server
+## Sobre o projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+O projeto foi idealizado como um desafio para praticar habilidades voltadas a HTML, CSS e Angular.
 
-## Code scaffolding
+Este projeto ainda encontra-se em andamento e abaixo é possível ver a TODO List das futuras implementações:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [x] Criação do layout baseado no desenho disponível em https://www.figma.com/proto/PCMOzaZcC7k5hlaoIv6Dt0/uiboost-desafio-1?node-id=1%3A10&scaling=min-zoom
+- [x] Habilitar/desabilitar botão do formulário conforme validações
+- [ ] Apresentar mensagens para campos inválidos
+- [ ] Migrar formulário para componente e implementar testes automatizados
 
-## Build
+## Autor
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* **Anthony Toniolli** - [HeartsKingu](https://github.com/heartskingu)

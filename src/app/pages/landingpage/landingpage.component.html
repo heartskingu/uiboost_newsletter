@@ -1,0 +1,51 @@
+<div class="landing-page-root">
+    <img class="bg-image" src="assets/images/background-image.png" alt="">
+    <main>
+        <section class="landing-page-header">
+            <img src="assets/images/logo-uiboost-1.svg" alt="" />
+            <img src="assets/images/instagram-icon.svg" alt="" />
+        </section>
+        <section class="landing-page-content">
+            <div class="matriculas-esgotadas">
+                <h1>Matrículas esgotadas :(</h1>
+                <p>As matrículas para o curso uiboost estão esgotadas, mas não se preocupe que uma nova turma já está a caminho! Preencha os campos ao lado saber mais.</p>
+                <h2 class="destaque">primeira turma já conta com mais de 280 alunos</h2>
+                <div class="icons">
+                    <ub-icon bgColor="#721EFF" src="assets/images/default-icons/foward-icon.svg"></ub-icon>
+                    <ub-icon bgColor="#5935FF" src="assets/images/default-icons/layer-icon.svg"></ub-icon>
+                    <ub-icon bgColor="#3656FF" src="assets/images/default-icons/code-icon.svg"></ub-icon>
+                    <ub-icon bgColor="#206BFF" src="assets/images/default-icons/copy-icon.svg"></ub-icon>
+                    <ub-icon bgColor="#01B1F2" src="assets/images/default-icons/copy-icon-tall.svg"></ub-icon>
+                    <ub-icon bgColor="#01D4E4" src="assets/images/default-icons/grid-icon.svg"></ub-icon>
+                    <ub-icon bgColor="#01EADA" src="assets/images/default-icons/star-icon.svg"></ub-icon>
+                    <ub-icon bgColor="#F2C94C" src="assets/images/default-icons/trophy-icon.svg"></ub-icon>
+                </div>
+            </div>
+            <ub-card class="fique-por-dentro">
+                <h2>Fique por dentro</h2>
+                <p>Cadastre seu e-mail para receber as<br/>novidades sobre a próxima turma e<br/>garantir sua vaga</p>
+                <form [formGroup]="newsForm">
+                    <div class="landing-page-form-input">
+                        <ub-input placeholder="Nome" formControlName="name"></ub-input>
+                    </div>
+                    <div class="landing-page-form-input">
+                        <ub-input placeholder="E-mail" formControlName="email"></ub-input>
+                    </div>
+                    <div class="landing-page-form-button">
+                        <ub-input type="button" formControlName="submit"></ub-input>
+                    </div>
+                </form>
+                <div class="proxima-turma">
+                    <img src="assets/images/calendar-icon.svg" alt="">
+                    <p>Próxima turma: Junho 2020</p>
+                </div>
+            </ub-card>
+        </section>
+    </main>
+    <footer>
+        <div class="footer-content">
+            <img src="assets/images/logo-uiboost-1.svg" alt="" />
+            <p>©2019 uiBoost</p>
+        </div>
+    </footer>
+</div>
