@@ -4,7 +4,7 @@ Este projeto consiste do desenvolvimento de uma interface desenhada no cursto ui
 
 ## Sobre o projeto
 
-O projeto foi idealizado como um desafio para praticar habilidades voltadas a HTML, CSS e Angular.
+O projeto foi idealizado como um desafio para praticar habilidades voltadas a HTML, CSS e Angular. Você pode acessa-lo em: [UiBoost Newsletter](https://uiboost-newsletter.vercel.app/)
 
 Este projeto ainda encontra-se em andamento e abaixo é possível ver a TODO List das futuras implementações:
 
@@ -12,6 +12,7 @@ Este projeto ainda encontra-se em andamento e abaixo é possível ver a TODO Lis
 - [x] Habilitar/desabilitar botão do formulário conforme validações
 - [ ] Apresentar mensagens para campos inválidos
 - [ ] Migrar formulário para componente e implementar testes automatizados
+- [ ] Implementar responsividade para tablet e mobile
 
 ## Autor
 
