@@ -8,7 +8,7 @@ O projeto foi idealizado como um desafio para praticar habilidades voltadas a HT
 
 Este projeto ainda encontra-se em andamento e abaixo é possível ver a TODO List das futuras implementações:
 
-- [x] Criação do layout baseado no desenho disponível em https://www.figma.com/proto/PCMOzaZcC7k5hlaoIv6Dt0/uiboost-desafio-1?node-id=1%3A10&scaling=min-zoom
+- [x] Criação do layout baseado no desenho disponível em [Desafio uiboost](https://www.figma.com/proto/PCMOzaZcC7k5hlaoIv6Dt0/uiboost-desafio-1?node-id=1%3A10&scaling=min-zoom)
 - [x] Habilitar/desabilitar botão do formulário conforme validações
 - [ ] Apresentar mensagens para campos inválidos
 - [ ] Migrar formulário para componente e implementar testes automatizados
