@@ -17,3 +17,6 @@ Este projeto ainda encontra-se em andamento e abaixo é possível ver a TODO Lis
 ## Autor
 
 * **Anthony Toniolli** - [HeartsKingu](https://github.com/heartskingu)
+
+## Status
+This project status is: :raised_hand: <b>On hold<b>
